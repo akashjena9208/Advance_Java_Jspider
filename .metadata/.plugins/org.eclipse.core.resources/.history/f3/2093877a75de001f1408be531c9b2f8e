@@ -1,0 +1,20 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<form action="add-car " method="post">
+		<input type="number" placeholder="Enter Id" name="carID"><br>
+		<input type="text" placeholder="Enter Model" name="carModel"><br>
+		<input type="text" placeholder="Enter Brand" name="carBrand"><br>
+		<input type="text" placeholder="Enter Colour" name="carColour"><br>
+		<input type="number" placeholder="Enter Price" name="carPrice"><br>
+		<input type="submit" value="Adding"> 
+	</form>
+
+</body>
+</html>

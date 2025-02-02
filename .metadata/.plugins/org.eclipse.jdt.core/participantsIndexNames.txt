@@ -1,0 +1,41 @@
+INDEX VERSION 1.134
+D:\Advance Java\Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\942245550.index
+\Servalte_Demo\src\main\resources
+D:\Advance Java\Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\905114994.index
+\ServaltProject_JSP\src\main\resources
+D:\Advance Java\Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2891481418.index
+\Typical_Servlet\src\main\java
+D:\Advance Java\Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\335791292.index
+\ServletProject_CarDB\src\main\java
+D:\Advance Java\Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1054646286.index
+\ServalteLifecycle\src\main\resources
+D:\Advance Java\Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3190040490.index
+\AdvocateHiringSystem\src\main\resources
+D:\Advance Java\Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2495566561.index
+\ServletProject_CarDB\src\main\resources
+D:\Advance Java\Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2976565313.index
+\AdvocateHiringSystem\src\main\resources
+D:\Advance Java\Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4238044678.index
+\ServletProject_calculatorApp\src\main\resources
+D:\Advance Java\Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3657408253.index
+\Servalteone\src\main\resources
+D:\Advance Java\Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2293820993.index
+\Static_Page\src\main\java
+D:\Advance Java\Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3375758956.index
+\FirstStatic\src\main\resources
+D:\Advance Java\Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3380688346.index
+\ServaltProject_JSP\src\main\java
+D:\Advance Java\Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\28565923.index
+\ThirdPage\src\main\resources
+D:\Advance Java\Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3044365637.index
+\ServalteProject_MobileDB\src\main\resources
+D:\Advance Java\Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3351696625.index
+\Servalte_MobileDb\src\main\resources
+D:\Advance Java\Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1401489163.index
+\ServlateProject_DynamicDemo\src\main\resources
+D:\Advance Java\Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\11770745.index
+\ServlateProject_Demo\src\main\resources
+D:\Advance Java\Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\10815270.index
+\SecondPage\src\main\resources
+D:\Advance Java\Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2722288483.index
+\ServalteTwo\src\main\resources

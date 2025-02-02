@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="D:\Advance Java\Servlet\Servalte_MobileDb\src\main\webapp\index.html"/>
+			<item value="D:\Advance Java\Servlet\ServalteProject_MobileDB"/>
+			<item value="D:\Advance Java\Servlet\Servalteone"/>
+			<item value="D:\Advance Java\Servlet\Servalte_Demo\src\main\webapp\index.html"/>
+			<item value="D:\Advance Java\Servlet\ServlateProject_DynamicDemo\target\m2e-wtp\web-resources\src\main\webapp\index.html"/>
+			<item value="D:\Advance Java\Servlet\Servlet_DynamicProject_Demo\src\main\java"/>
+			<item value="D:\Advance Java\Servlet\Static_Page\src\main\webapp\index.html"/>
+			<item value="D:\Advance Java\Servlet\ServlateProject_Demo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.jsp.servlet.ServletProject_CarDB"/>
+			<item value="com.jsp.servlet.ServaltProject_JSP"/>
+			<item value="com.jsp.servlet.Servalte_MobileDb"/>
+			<item value="com.jsp.servlet.ServalteProject_MobileDB"/>
+			<item value="com.jsp.servlet.ServalteTwo"/>
+			<item value="com.jsp.servlet.Servalteone"/>
+			<item value="com.jsp.servlet.Typical_Servlet"/>
+			<item value="com.jsp.servlet.Servalte_Demo"/>
+			<item value="com.jsp.servlet.dynamicpage"/>
+			<item value="staticpage.servalte.ThirdPage"/>
+			<item value="staticpage.servalte.SecondPage"/>
+			<item value="staticpage.servalte.FirstStatic"/>
+			<item value="static.servalte.SecondWeb"/>
+			<item value="static.servalte.First"/>
+			<item value="static.servalte.Static_Page"/>
+		</list>
+		<list key="groupId">
+			<item value="com.jsp.servlet"/>
+			<item value="staticpage.servalte"/>
+			<item value="static.servalte"/>
+		</list>
+		<list key="artifactId">
+			<item value="ServletProject_CarDB"/>
+			<item value="ServaltProject_JSP"/>
+			<item value="Servalte_MobileDb"/>
+			<item value="ServalteProject_MobileDB"/>
+			<item value="ServalteTwo"/>
+			<item value="Servalteone"/>
+			<item value="Typical_Servlet"/>
+			<item value="Servalte_Demo"/>
+			<item value="ServlateProject_DynamicDemo"/>
+			<item value="ThirdPage"/>
+			<item value="SecondPage"/>
+			<item value="FirstStatic"/>
+			<item value="SecondWeb"/>
+			<item value="First"/>
+			<item value="Static_Page"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

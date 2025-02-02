@@ -1,0 +1,29 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Add Car</title>
+<style>
+body
+{
+ background-image: url("https://img.freepik.com/free-vector/lightened-luxury-sedan-car-against-night-city-with-headlamps-rear-tail-lights-lit_1284-28804.jpg?t=st=1738176933~exp=1738180533~hmac=892034d2ec2f72bcf21a0e7fc0a93fca52981f434b4b6b463d0f0597d2132802&w=996");
+ text-align: center;
+
+}
+
+</style>
+
+</head>
+<body>
+	<form action="add-car " method="post">
+		<input type="number" placeholder="Enter Id" name="carID"><br>
+		<input type="text" placeholder="Enter Model" name="carModel"><br>
+		<input type="text" placeholder="Enter Brand" name="carBrand"><br>
+		<input type="text" placeholder="Enter Colour" name="carColour"><br>
+		<input type="number" placeholder="Enter Price" name="carPrice"><br>
+		<input type="submit" value="Adding"> 
+	</form>
+</body>
+</html>
